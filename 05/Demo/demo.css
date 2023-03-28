@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: grey;
+  font-family: Arial, sans-serif;
+}
+
+.page-header {
+  font-size: 40px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.events-list {
+  background-color: rgb(212, 212, 212);
+  width: 500px;
+  list-style: none;
+  margin: 0 auto;
+}
+
+.copyright {
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+    text-align: center;
+    display: block;
+}

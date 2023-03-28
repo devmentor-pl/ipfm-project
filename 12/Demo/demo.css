@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('https://devmentor.pl/wp-content/uploads/2022/09/nainoa-shizuru-NcdG9mK3PBY-unsplash-scaled.jpg');
+}
+
+.page-header {
+  font-size: 40px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.page-subheader {
+  color: rgb(255, 207, 49);
+  display: block;
+  font-size: 35px;
+}
+
+.events-list {
+  background-color: rgb(212, 212, 212);
+  width: 500px;
+  list-style: none;
+  margin: 0 auto;
+}
+
+.event-header {
+  background-color: rgb(39, 39, 39);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+}
+
+.event-container {
+  padding: 20px 10px 40px 10px;
+}
+
+.event-description {
+  margin-bottom: 30px;
+}
+
+.event-link {
+  background: rgb(0, 0, 0);
+  color: rgb(255, 207, 49);
+  padding: 10px 15px;
+  text-decoration: none;
+}
+
+.copyright {
+  color: rgb(255, 255, 255);
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  display: block;
+}
